@@ -1,0 +1,5 @@
+George a creat o aplicație Windows Forms cu ajutorul căreia să rezolve ecuații de gradul I. El a decis să îi ajute și pe colegii săi și le-a dat câte o copie 
+a programului său și lor. După ceva timp, unul din colegi i-a zis că nu se poate folosi de aplicație deoarece nu vede butonul de calculare a ecuatiei pe 
+laptop-ul său Acer Aspire One D150-1Bw. 
+
+Ajutați-l pe George să modifice programul astfel încât toți colegii lui să se poată folosi de el.
