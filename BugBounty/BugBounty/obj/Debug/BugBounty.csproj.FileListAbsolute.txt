@@ -1,0 +1,10 @@
+C:\Users\Dorin\Desktop\BugBounty\BugBounty\obj\Debug\BugBounty.csprojAssemblyReference.cache
+C:\Users\Dorin\Desktop\BugBounty\BugBounty\obj\Debug\BugBounty.Form1.resources
+C:\Users\Dorin\Desktop\BugBounty\BugBounty\obj\Debug\BugBounty.Properties.Resources.resources
+C:\Users\Dorin\Desktop\BugBounty\BugBounty\obj\Debug\BugBounty.csproj.GenerateResource.cache
+C:\Users\Dorin\Desktop\BugBounty\BugBounty\obj\Debug\BugBounty.csproj.CoreCompileInputs.cache
+C:\Users\Dorin\Desktop\BugBounty\BugBounty\bin\Debug\BugBounty.exe.config
+C:\Users\Dorin\Desktop\BugBounty\BugBounty\bin\Debug\BugBounty.exe
+C:\Users\Dorin\Desktop\BugBounty\BugBounty\bin\Debug\BugBounty.pdb
+C:\Users\Dorin\Desktop\BugBounty\BugBounty\obj\Debug\BugBounty.exe
+C:\Users\Dorin\Desktop\BugBounty\BugBounty\obj\Debug\BugBounty.pdb
