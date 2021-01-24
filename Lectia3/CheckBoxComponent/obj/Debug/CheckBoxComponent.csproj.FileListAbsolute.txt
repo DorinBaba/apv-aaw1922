@@ -1,0 +1,10 @@
+C:\Users\Maria\Desktop\repos\materiale-ore\Materiale Ore\APV\Lectia 3\apv-aaw1922\Lectia3\CheckBoxComponent\bin\Debug\CheckBoxComponent.exe.config
+C:\Users\Maria\Desktop\repos\materiale-ore\Materiale Ore\APV\Lectia 3\apv-aaw1922\Lectia3\CheckBoxComponent\bin\Debug\CheckBoxComponent.exe
+C:\Users\Maria\Desktop\repos\materiale-ore\Materiale Ore\APV\Lectia 3\apv-aaw1922\Lectia3\CheckBoxComponent\bin\Debug\CheckBoxComponent.pdb
+C:\Users\Maria\Desktop\repos\materiale-ore\Materiale Ore\APV\Lectia 3\apv-aaw1922\Lectia3\CheckBoxComponent\obj\Debug\CheckBoxComponent.csprojAssemblyReference.cache
+C:\Users\Maria\Desktop\repos\materiale-ore\Materiale Ore\APV\Lectia 3\apv-aaw1922\Lectia3\CheckBoxComponent\obj\Debug\CheckBoxComponent.Form1.resources
+C:\Users\Maria\Desktop\repos\materiale-ore\Materiale Ore\APV\Lectia 3\apv-aaw1922\Lectia3\CheckBoxComponent\obj\Debug\CheckBoxComponent.Properties.Resources.resources
+C:\Users\Maria\Desktop\repos\materiale-ore\Materiale Ore\APV\Lectia 3\apv-aaw1922\Lectia3\CheckBoxComponent\obj\Debug\CheckBoxComponent.csproj.GenerateResource.cache
+C:\Users\Maria\Desktop\repos\materiale-ore\Materiale Ore\APV\Lectia 3\apv-aaw1922\Lectia3\CheckBoxComponent\obj\Debug\CheckBoxComponent.csproj.CoreCompileInputs.cache
+C:\Users\Maria\Desktop\repos\materiale-ore\Materiale Ore\APV\Lectia 3\apv-aaw1922\Lectia3\CheckBoxComponent\obj\Debug\CheckBoxComponent.exe
+C:\Users\Maria\Desktop\repos\materiale-ore\Materiale Ore\APV\Lectia 3\apv-aaw1922\Lectia3\CheckBoxComponent\obj\Debug\CheckBoxComponent.pdb

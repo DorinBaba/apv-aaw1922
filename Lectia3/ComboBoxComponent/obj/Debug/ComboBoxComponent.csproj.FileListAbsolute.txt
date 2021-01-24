@@ -1,0 +1,10 @@
+C:\Users\Maria\Desktop\repos\materiale-ore\Materiale Ore\APV\Lectia 3\apv-aaw1922\Lectia3\ComboBoxComponent\bin\Debug\ComboBoxComponent.exe.config
+C:\Users\Maria\Desktop\repos\materiale-ore\Materiale Ore\APV\Lectia 3\apv-aaw1922\Lectia3\ComboBoxComponent\bin\Debug\ComboBoxComponent.exe
+C:\Users\Maria\Desktop\repos\materiale-ore\Materiale Ore\APV\Lectia 3\apv-aaw1922\Lectia3\ComboBoxComponent\bin\Debug\ComboBoxComponent.pdb
+C:\Users\Maria\Desktop\repos\materiale-ore\Materiale Ore\APV\Lectia 3\apv-aaw1922\Lectia3\ComboBoxComponent\obj\Debug\ComboBoxComponent.csprojAssemblyReference.cache
+C:\Users\Maria\Desktop\repos\materiale-ore\Materiale Ore\APV\Lectia 3\apv-aaw1922\Lectia3\ComboBoxComponent\obj\Debug\ComboBoxComponent.Form1.resources
+C:\Users\Maria\Desktop\repos\materiale-ore\Materiale Ore\APV\Lectia 3\apv-aaw1922\Lectia3\ComboBoxComponent\obj\Debug\ComboBoxComponent.Properties.Resources.resources
+C:\Users\Maria\Desktop\repos\materiale-ore\Materiale Ore\APV\Lectia 3\apv-aaw1922\Lectia3\ComboBoxComponent\obj\Debug\ComboBoxComponent.csproj.GenerateResource.cache
+C:\Users\Maria\Desktop\repos\materiale-ore\Materiale Ore\APV\Lectia 3\apv-aaw1922\Lectia3\ComboBoxComponent\obj\Debug\ComboBoxComponent.csproj.CoreCompileInputs.cache
+C:\Users\Maria\Desktop\repos\materiale-ore\Materiale Ore\APV\Lectia 3\apv-aaw1922\Lectia3\ComboBoxComponent\obj\Debug\ComboBoxComponent.exe
+C:\Users\Maria\Desktop\repos\materiale-ore\Materiale Ore\APV\Lectia 3\apv-aaw1922\Lectia3\ComboBoxComponent\obj\Debug\ComboBoxComponent.pdb

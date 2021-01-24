@@ -1,0 +1,10 @@
+C:\Users\Maria\Desktop\repos\materiale-ore\Materiale Ore\APV\Lectia 3\apv-aaw1922\Lectia3\PictureBoxComponent\bin\Debug\PictureBoxComponent.exe.config
+C:\Users\Maria\Desktop\repos\materiale-ore\Materiale Ore\APV\Lectia 3\apv-aaw1922\Lectia3\PictureBoxComponent\bin\Debug\PictureBoxComponent.exe
+C:\Users\Maria\Desktop\repos\materiale-ore\Materiale Ore\APV\Lectia 3\apv-aaw1922\Lectia3\PictureBoxComponent\bin\Debug\PictureBoxComponent.pdb
+C:\Users\Maria\Desktop\repos\materiale-ore\Materiale Ore\APV\Lectia 3\apv-aaw1922\Lectia3\PictureBoxComponent\obj\Debug\PictureBoxComponent.csprojAssemblyReference.cache
+C:\Users\Maria\Desktop\repos\materiale-ore\Materiale Ore\APV\Lectia 3\apv-aaw1922\Lectia3\PictureBoxComponent\obj\Debug\PictureBoxComponent.Form1.resources
+C:\Users\Maria\Desktop\repos\materiale-ore\Materiale Ore\APV\Lectia 3\apv-aaw1922\Lectia3\PictureBoxComponent\obj\Debug\PictureBoxComponent.Properties.Resources.resources
+C:\Users\Maria\Desktop\repos\materiale-ore\Materiale Ore\APV\Lectia 3\apv-aaw1922\Lectia3\PictureBoxComponent\obj\Debug\PictureBoxComponent.csproj.GenerateResource.cache
+C:\Users\Maria\Desktop\repos\materiale-ore\Materiale Ore\APV\Lectia 3\apv-aaw1922\Lectia3\PictureBoxComponent\obj\Debug\PictureBoxComponent.csproj.CoreCompileInputs.cache
+C:\Users\Maria\Desktop\repos\materiale-ore\Materiale Ore\APV\Lectia 3\apv-aaw1922\Lectia3\PictureBoxComponent\obj\Debug\PictureBoxComponent.exe
+C:\Users\Maria\Desktop\repos\materiale-ore\Materiale Ore\APV\Lectia 3\apv-aaw1922\Lectia3\PictureBoxComponent\obj\Debug\PictureBoxComponent.pdb

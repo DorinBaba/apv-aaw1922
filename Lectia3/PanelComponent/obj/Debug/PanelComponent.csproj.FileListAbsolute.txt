@@ -1,0 +1,10 @@
+C:\Users\Maria\Desktop\repos\materiale-ore\Materiale Ore\APV\Lectia 3\apv-aaw1922\Lectia3\PanelComponent\bin\Debug\PanelComponent.exe.config
+C:\Users\Maria\Desktop\repos\materiale-ore\Materiale Ore\APV\Lectia 3\apv-aaw1922\Lectia3\PanelComponent\bin\Debug\PanelComponent.exe
+C:\Users\Maria\Desktop\repos\materiale-ore\Materiale Ore\APV\Lectia 3\apv-aaw1922\Lectia3\PanelComponent\bin\Debug\PanelComponent.pdb
+C:\Users\Maria\Desktop\repos\materiale-ore\Materiale Ore\APV\Lectia 3\apv-aaw1922\Lectia3\PanelComponent\obj\Debug\PanelComponent.csprojAssemblyReference.cache
+C:\Users\Maria\Desktop\repos\materiale-ore\Materiale Ore\APV\Lectia 3\apv-aaw1922\Lectia3\PanelComponent\obj\Debug\PanelComponent.Form1.resources
+C:\Users\Maria\Desktop\repos\materiale-ore\Materiale Ore\APV\Lectia 3\apv-aaw1922\Lectia3\PanelComponent\obj\Debug\PanelComponent.Properties.Resources.resources
+C:\Users\Maria\Desktop\repos\materiale-ore\Materiale Ore\APV\Lectia 3\apv-aaw1922\Lectia3\PanelComponent\obj\Debug\PanelComponent.csproj.GenerateResource.cache
+C:\Users\Maria\Desktop\repos\materiale-ore\Materiale Ore\APV\Lectia 3\apv-aaw1922\Lectia3\PanelComponent\obj\Debug\PanelComponent.csproj.CoreCompileInputs.cache
+C:\Users\Maria\Desktop\repos\materiale-ore\Materiale Ore\APV\Lectia 3\apv-aaw1922\Lectia3\PanelComponent\obj\Debug\PanelComponent.exe
+C:\Users\Maria\Desktop\repos\materiale-ore\Materiale Ore\APV\Lectia 3\apv-aaw1922\Lectia3\PanelComponent\obj\Debug\PanelComponent.pdb

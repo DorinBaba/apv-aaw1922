@@ -1,0 +1,10 @@
+C:\Users\Maria\Desktop\repos\materiale-ore\Materiale Ore\APV\Lectia 3\apv-aaw1922\Lectia3\RichTextBoxController\bin\Debug\RichTextBoxController.exe.config
+C:\Users\Maria\Desktop\repos\materiale-ore\Materiale Ore\APV\Lectia 3\apv-aaw1922\Lectia3\RichTextBoxController\bin\Debug\RichTextBoxController.exe
+C:\Users\Maria\Desktop\repos\materiale-ore\Materiale Ore\APV\Lectia 3\apv-aaw1922\Lectia3\RichTextBoxController\bin\Debug\RichTextBoxController.pdb
+C:\Users\Maria\Desktop\repos\materiale-ore\Materiale Ore\APV\Lectia 3\apv-aaw1922\Lectia3\RichTextBoxController\obj\Debug\RichTextBoxController.csprojAssemblyReference.cache
+C:\Users\Maria\Desktop\repos\materiale-ore\Materiale Ore\APV\Lectia 3\apv-aaw1922\Lectia3\RichTextBoxController\obj\Debug\RichTextBoxController.Form1.resources
+C:\Users\Maria\Desktop\repos\materiale-ore\Materiale Ore\APV\Lectia 3\apv-aaw1922\Lectia3\RichTextBoxController\obj\Debug\RichTextBoxController.Properties.Resources.resources
+C:\Users\Maria\Desktop\repos\materiale-ore\Materiale Ore\APV\Lectia 3\apv-aaw1922\Lectia3\RichTextBoxController\obj\Debug\RichTextBoxController.csproj.GenerateResource.cache
+C:\Users\Maria\Desktop\repos\materiale-ore\Materiale Ore\APV\Lectia 3\apv-aaw1922\Lectia3\RichTextBoxController\obj\Debug\RichTextBoxController.csproj.CoreCompileInputs.cache
+C:\Users\Maria\Desktop\repos\materiale-ore\Materiale Ore\APV\Lectia 3\apv-aaw1922\Lectia3\RichTextBoxController\obj\Debug\RichTextBoxController.exe
+C:\Users\Maria\Desktop\repos\materiale-ore\Materiale Ore\APV\Lectia 3\apv-aaw1922\Lectia3\RichTextBoxController\obj\Debug\RichTextBoxController.pdb
