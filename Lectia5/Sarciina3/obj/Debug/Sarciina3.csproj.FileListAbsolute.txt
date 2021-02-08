@@ -1,0 +1,11 @@
+C:\Users\Dorin\Desktop\repos\materiale-ore\Materiale Ore\APV\Lectia 5\apv-aaw1922\Lectia5\Sarciina3\bin\Debug\Sarciina3.exe.config
+C:\Users\Dorin\Desktop\repos\materiale-ore\Materiale Ore\APV\Lectia 5\apv-aaw1922\Lectia5\Sarciina3\bin\Debug\Sarciina3.exe
+C:\Users\Dorin\Desktop\repos\materiale-ore\Materiale Ore\APV\Lectia 5\apv-aaw1922\Lectia5\Sarciina3\bin\Debug\Sarciina3.pdb
+C:\Users\Dorin\Desktop\repos\materiale-ore\Materiale Ore\APV\Lectia 5\apv-aaw1922\Lectia5\Sarciina3\obj\Debug\Sarciina3.csprojAssemblyReference.cache
+C:\Users\Dorin\Desktop\repos\materiale-ore\Materiale Ore\APV\Lectia 5\apv-aaw1922\Lectia5\Sarciina3\obj\Debug\Sarciina3.Form1.resources
+C:\Users\Dorin\Desktop\repos\materiale-ore\Materiale Ore\APV\Lectia 5\apv-aaw1922\Lectia5\Sarciina3\obj\Debug\Sarciina3.LogInForm.resources
+C:\Users\Dorin\Desktop\repos\materiale-ore\Materiale Ore\APV\Lectia 5\apv-aaw1922\Lectia5\Sarciina3\obj\Debug\Sarciina3.Properties.Resources.resources
+C:\Users\Dorin\Desktop\repos\materiale-ore\Materiale Ore\APV\Lectia 5\apv-aaw1922\Lectia5\Sarciina3\obj\Debug\Sarciina3.csproj.GenerateResource.cache
+C:\Users\Dorin\Desktop\repos\materiale-ore\Materiale Ore\APV\Lectia 5\apv-aaw1922\Lectia5\Sarciina3\obj\Debug\Sarciina3.csproj.CoreCompileInputs.cache
+C:\Users\Dorin\Desktop\repos\materiale-ore\Materiale Ore\APV\Lectia 5\apv-aaw1922\Lectia5\Sarciina3\obj\Debug\Sarciina3.exe
+C:\Users\Dorin\Desktop\repos\materiale-ore\Materiale Ore\APV\Lectia 5\apv-aaw1922\Lectia5\Sarciina3\obj\Debug\Sarciina3.pdb

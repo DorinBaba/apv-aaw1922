@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExempluFereastraModala", "E
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sarcina1", "Sarcina1\Sarcina1.csproj", "{C7209A4C-E530-46FD-92C5-9448E1E68DD7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sarcina2", "Sarcina2\Sarcina2.csproj", "{AF16F586-3B34-489E-9201-6AD5B428C4D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sarciina3", "Sarciina3\Sarciina3.csproj", "{A68B2E0B-48D5-43B2-B6B2-30D0B09BB35C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{C7209A4C-E530-46FD-92C5-9448E1E68DD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C7209A4C-E530-46FD-92C5-9448E1E68DD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C7209A4C-E530-46FD-92C5-9448E1E68DD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF16F586-3B34-489E-9201-6AD5B428C4D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF16F586-3B34-489E-9201-6AD5B428C4D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF16F586-3B34-489E-9201-6AD5B428C4D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF16F586-3B34-489E-9201-6AD5B428C4D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A68B2E0B-48D5-43B2-B6B2-30D0B09BB35C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A68B2E0B-48D5-43B2-B6B2-30D0B09BB35C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A68B2E0B-48D5-43B2-B6B2-30D0B09BB35C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A68B2E0B-48D5-43B2-B6B2-30D0B09BB35C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

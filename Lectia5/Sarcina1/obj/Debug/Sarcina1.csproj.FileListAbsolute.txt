@@ -9,3 +9,14 @@ C:\Users\Dorin\Desktop\repos\materiale-ore\Materiale Ore\APV\Lectia 4\apv-aaw192
 C:\Users\Dorin\Desktop\repos\materiale-ore\Materiale Ore\APV\Lectia 4\apv-aaw1922\Lectia5\Sarcina1\obj\Debug\Sarcina1.csproj.CoreCompileInputs.cache
 C:\Users\Dorin\Desktop\repos\materiale-ore\Materiale Ore\APV\Lectia 4\apv-aaw1922\Lectia5\Sarcina1\obj\Debug\Sarcina1.exe
 C:\Users\Dorin\Desktop\repos\materiale-ore\Materiale Ore\APV\Lectia 4\apv-aaw1922\Lectia5\Sarcina1\obj\Debug\Sarcina1.pdb
+C:\Users\Dorin\Desktop\repos\materiale-ore\Materiale Ore\APV\Lectia 5\apv-aaw1922\Lectia5\Sarcina1\bin\Debug\Sarcina1.exe.config
+C:\Users\Dorin\Desktop\repos\materiale-ore\Materiale Ore\APV\Lectia 5\apv-aaw1922\Lectia5\Sarcina1\bin\Debug\Sarcina1.exe
+C:\Users\Dorin\Desktop\repos\materiale-ore\Materiale Ore\APV\Lectia 5\apv-aaw1922\Lectia5\Sarcina1\bin\Debug\Sarcina1.pdb
+C:\Users\Dorin\Desktop\repos\materiale-ore\Materiale Ore\APV\Lectia 5\apv-aaw1922\Lectia5\Sarcina1\obj\Debug\Sarcina1.csprojAssemblyReference.cache
+C:\Users\Dorin\Desktop\repos\materiale-ore\Materiale Ore\APV\Lectia 5\apv-aaw1922\Lectia5\Sarcina1\obj\Debug\Sarcina1.Form1.resources
+C:\Users\Dorin\Desktop\repos\materiale-ore\Materiale Ore\APV\Lectia 5\apv-aaw1922\Lectia5\Sarcina1\obj\Debug\Sarcina1.Properties.Resources.resources
+C:\Users\Dorin\Desktop\repos\materiale-ore\Materiale Ore\APV\Lectia 5\apv-aaw1922\Lectia5\Sarcina1\obj\Debug\Sarcina1.ShowInfoForm.resources
+C:\Users\Dorin\Desktop\repos\materiale-ore\Materiale Ore\APV\Lectia 5\apv-aaw1922\Lectia5\Sarcina1\obj\Debug\Sarcina1.csproj.GenerateResource.cache
+C:\Users\Dorin\Desktop\repos\materiale-ore\Materiale Ore\APV\Lectia 5\apv-aaw1922\Lectia5\Sarcina1\obj\Debug\Sarcina1.csproj.CoreCompileInputs.cache
+C:\Users\Dorin\Desktop\repos\materiale-ore\Materiale Ore\APV\Lectia 5\apv-aaw1922\Lectia5\Sarcina1\obj\Debug\Sarcina1.exe
+C:\Users\Dorin\Desktop\repos\materiale-ore\Materiale Ore\APV\Lectia 5\apv-aaw1922\Lectia5\Sarcina1\obj\Debug\Sarcina1.pdb

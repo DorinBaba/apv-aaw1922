@@ -9,3 +9,14 @@ C:\Users\Dorin\Desktop\repos\materiale-ore\Materiale Ore\APV\Lectia 4\apv-aaw192
 C:\Users\Dorin\Desktop\repos\materiale-ore\Materiale Ore\APV\Lectia 4\apv-aaw1922\Lectia5\ExempluFereastraModala\obj\Debug\ExempluFereastraModala.csproj.CoreCompileInputs.cache
 C:\Users\Dorin\Desktop\repos\materiale-ore\Materiale Ore\APV\Lectia 4\apv-aaw1922\Lectia5\ExempluFereastraModala\obj\Debug\ExempluFereastraModala.exe
 C:\Users\Dorin\Desktop\repos\materiale-ore\Materiale Ore\APV\Lectia 4\apv-aaw1922\Lectia5\ExempluFereastraModala\obj\Debug\ExempluFereastraModala.pdb
+C:\Users\Dorin\Desktop\repos\materiale-ore\Materiale Ore\APV\Lectia 5\apv-aaw1922\Lectia5\ExempluFereastraModala\bin\Debug\ExempluFereastraModala.exe.config
+C:\Users\Dorin\Desktop\repos\materiale-ore\Materiale Ore\APV\Lectia 5\apv-aaw1922\Lectia5\ExempluFereastraModala\bin\Debug\ExempluFereastraModala.exe
+C:\Users\Dorin\Desktop\repos\materiale-ore\Materiale Ore\APV\Lectia 5\apv-aaw1922\Lectia5\ExempluFereastraModala\bin\Debug\ExempluFereastraModala.pdb
+C:\Users\Dorin\Desktop\repos\materiale-ore\Materiale Ore\APV\Lectia 5\apv-aaw1922\Lectia5\ExempluFereastraModala\obj\Debug\ExempluFereastraModala.csprojAssemblyReference.cache
+C:\Users\Dorin\Desktop\repos\materiale-ore\Materiale Ore\APV\Lectia 5\apv-aaw1922\Lectia5\ExempluFereastraModala\obj\Debug\ExempluFereastraModala.Form1.resources
+C:\Users\Dorin\Desktop\repos\materiale-ore\Materiale Ore\APV\Lectia 5\apv-aaw1922\Lectia5\ExempluFereastraModala\obj\Debug\ExempluFereastraModala.ModalForm.resources
+C:\Users\Dorin\Desktop\repos\materiale-ore\Materiale Ore\APV\Lectia 5\apv-aaw1922\Lectia5\ExempluFereastraModala\obj\Debug\ExempluFereastraModala.Properties.Resources.resources
+C:\Users\Dorin\Desktop\repos\materiale-ore\Materiale Ore\APV\Lectia 5\apv-aaw1922\Lectia5\ExempluFereastraModala\obj\Debug\ExempluFereastraModala.csproj.GenerateResource.cache
+C:\Users\Dorin\Desktop\repos\materiale-ore\Materiale Ore\APV\Lectia 5\apv-aaw1922\Lectia5\ExempluFereastraModala\obj\Debug\ExempluFereastraModala.csproj.CoreCompileInputs.cache
+C:\Users\Dorin\Desktop\repos\materiale-ore\Materiale Ore\APV\Lectia 5\apv-aaw1922\Lectia5\ExempluFereastraModala\obj\Debug\ExempluFereastraModala.exe
+C:\Users\Dorin\Desktop\repos\materiale-ore\Materiale Ore\APV\Lectia 5\apv-aaw1922\Lectia5\ExempluFereastraModala\obj\Debug\ExempluFereastraModala.pdb

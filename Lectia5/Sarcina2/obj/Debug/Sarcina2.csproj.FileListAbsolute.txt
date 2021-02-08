@@ -1,0 +1,10 @@
+C:\Users\Dorin\Desktop\repos\materiale-ore\Materiale Ore\APV\Lectia 5\apv-aaw1922\Lectia5\Sarcina2\bin\Debug\Sarcina2.exe.config
+C:\Users\Dorin\Desktop\repos\materiale-ore\Materiale Ore\APV\Lectia 5\apv-aaw1922\Lectia5\Sarcina2\bin\Debug\Sarcina2.exe
+C:\Users\Dorin\Desktop\repos\materiale-ore\Materiale Ore\APV\Lectia 5\apv-aaw1922\Lectia5\Sarcina2\bin\Debug\Sarcina2.pdb
+C:\Users\Dorin\Desktop\repos\materiale-ore\Materiale Ore\APV\Lectia 5\apv-aaw1922\Lectia5\Sarcina2\obj\Debug\Sarcina2.Form1.resources
+C:\Users\Dorin\Desktop\repos\materiale-ore\Materiale Ore\APV\Lectia 5\apv-aaw1922\Lectia5\Sarcina2\obj\Debug\Sarcina2.Properties.Resources.resources
+C:\Users\Dorin\Desktop\repos\materiale-ore\Materiale Ore\APV\Lectia 5\apv-aaw1922\Lectia5\Sarcina2\obj\Debug\Sarcina2.csproj.GenerateResource.cache
+C:\Users\Dorin\Desktop\repos\materiale-ore\Materiale Ore\APV\Lectia 5\apv-aaw1922\Lectia5\Sarcina2\obj\Debug\Sarcina2.csproj.CoreCompileInputs.cache
+C:\Users\Dorin\Desktop\repos\materiale-ore\Materiale Ore\APV\Lectia 5\apv-aaw1922\Lectia5\Sarcina2\obj\Debug\Sarcina2.exe
+C:\Users\Dorin\Desktop\repos\materiale-ore\Materiale Ore\APV\Lectia 5\apv-aaw1922\Lectia5\Sarcina2\obj\Debug\Sarcina2.pdb
+C:\Users\Dorin\Desktop\repos\materiale-ore\Materiale Ore\APV\Lectia 5\apv-aaw1922\Lectia5\Sarcina2\obj\Debug\Sarcina2.Form2.resources

@@ -23,7 +23,7 @@ namespace ExempluFereastraModala
             ModalForm modalForm = new ModalForm();
 
             // Afișăm fereastra modală
-            modalForm.ShowDialog();
+            modalForm.Show();
         }
     }
 }

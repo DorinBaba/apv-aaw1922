@@ -20,10 +20,12 @@ namespace Sarcina1
         private void btAfiseazaOra_Click(object sender, EventArgs e)
         {
             string ora = $"Este ora {DateTime.Now.ToString("hh:mm")}";
-            ShowInfoForm showInfoForm = new ShowInfoForm(ora);
+            //ShowInfoForm showInfoForm = new ShowInfoForm(ora);
+            Form1 form = new Form1();
+            form.Show();
 
             // Afisam fereastra in mod obisnuit
-            showInfoForm.Show();
+            //showInfoForm.Show();
         }
 
         private void btAfiseazaData_Click(object sender, EventArgs e)
