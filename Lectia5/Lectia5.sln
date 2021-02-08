@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExempluFereastraModala", "ExempluFereastraModala\ExempluFereastraModala.csproj", "{813C3046-BFAD-49FC-B883-7F330C2F2914}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sarcina1", "Sarcina1\Sarcina1.csproj", "{C7209A4C-E530-46FD-92C5-9448E1E68DD7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{813C3046-BFAD-49FC-B883-7F330C2F2914}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{813C3046-BFAD-49FC-B883-7F330C2F2914}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{813C3046-BFAD-49FC-B883-7F330C2F2914}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{813C3046-BFAD-49FC-B883-7F330C2F2914}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7209A4C-E530-46FD-92C5-9448E1E68DD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7209A4C-E530-46FD-92C5-9448E1E68DD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7209A4C-E530-46FD-92C5-9448E1E68DD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7209A4C-E530-46FD-92C5-9448E1E68DD7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32AABA7A-99A6-4DBD-B0D4-E59BD05E52C1}
+	EndGlobalSection
+EndGlobal
