@@ -1,0 +1,9 @@
+C:\Users\Dorin\Desktop\Lectia9\ComboBox\bin\Debug\ComboBox.exe.config
+C:\Users\Dorin\Desktop\Lectia9\ComboBox\bin\Debug\ComboBox.exe
+C:\Users\Dorin\Desktop\Lectia9\ComboBox\bin\Debug\ComboBox.pdb
+C:\Users\Dorin\Desktop\Lectia9\ComboBox\obj\Debug\ComboBox.Form1.resources
+C:\Users\Dorin\Desktop\Lectia9\ComboBox\obj\Debug\ComboBox.Properties.Resources.resources
+C:\Users\Dorin\Desktop\Lectia9\ComboBox\obj\Debug\ComboBox.csproj.GenerateResource.cache
+C:\Users\Dorin\Desktop\Lectia9\ComboBox\obj\Debug\ComboBox.csproj.CoreCompileInputs.cache
+C:\Users\Dorin\Desktop\Lectia9\ComboBox\obj\Debug\ComboBox.exe
+C:\Users\Dorin\Desktop\Lectia9\ComboBox\obj\Debug\ComboBox.pdb

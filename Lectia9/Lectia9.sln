@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Radiobutton", "Radiobutton\Radiobutton.csproj", "{B88BC074-905E-41FA-9A8B-8D49948D567D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckBox", "CheckBox\CheckBox.csproj", "{1199E2DE-EF00-4A8D-9F30-4DE4E82A808D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComboBox", "ComboBox\ComboBox.csproj", "{918EFF20-37BD-4C62-A143-633F31751FEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B88BC074-905E-41FA-9A8B-8D49948D567D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B88BC074-905E-41FA-9A8B-8D49948D567D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B88BC074-905E-41FA-9A8B-8D49948D567D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B88BC074-905E-41FA-9A8B-8D49948D567D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1199E2DE-EF00-4A8D-9F30-4DE4E82A808D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1199E2DE-EF00-4A8D-9F30-4DE4E82A808D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1199E2DE-EF00-4A8D-9F30-4DE4E82A808D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1199E2DE-EF00-4A8D-9F30-4DE4E82A808D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{918EFF20-37BD-4C62-A143-633F31751FEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{918EFF20-37BD-4C62-A143-633F31751FEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{918EFF20-37BD-4C62-A143-633F31751FEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{918EFF20-37BD-4C62-A143-633F31751FEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F73654B-443A-41C8-822A-5701DB226E31}
+	EndGlobalSection
+EndGlobal

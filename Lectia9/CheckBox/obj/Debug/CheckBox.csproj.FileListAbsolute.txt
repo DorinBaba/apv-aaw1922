@@ -1,0 +1,9 @@
+C:\Users\Dorin\Desktop\Lectia9\CheckBox\bin\Debug\CheckBox.exe.config
+C:\Users\Dorin\Desktop\Lectia9\CheckBox\bin\Debug\CheckBox.exe
+C:\Users\Dorin\Desktop\Lectia9\CheckBox\bin\Debug\CheckBox.pdb
+C:\Users\Dorin\Desktop\Lectia9\CheckBox\obj\Debug\CheckBox.Form1.resources
+C:\Users\Dorin\Desktop\Lectia9\CheckBox\obj\Debug\CheckBox.Properties.Resources.resources
+C:\Users\Dorin\Desktop\Lectia9\CheckBox\obj\Debug\CheckBox.csproj.GenerateResource.cache
+C:\Users\Dorin\Desktop\Lectia9\CheckBox\obj\Debug\CheckBox.csproj.CoreCompileInputs.cache
+C:\Users\Dorin\Desktop\Lectia9\CheckBox\obj\Debug\CheckBox.exe
+C:\Users\Dorin\Desktop\Lectia9\CheckBox\obj\Debug\CheckBox.pdb

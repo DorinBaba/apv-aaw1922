@@ -1,0 +1,10 @@
+C:\Users\Dorin\Desktop\Lectia9\Radiobutton\bin\Debug\Radiobutton.exe.config
+C:\Users\Dorin\Desktop\Lectia9\Radiobutton\bin\Debug\Radiobutton.exe
+C:\Users\Dorin\Desktop\Lectia9\Radiobutton\bin\Debug\Radiobutton.pdb
+C:\Users\Dorin\Desktop\Lectia9\Radiobutton\obj\Debug\Radiobutton.csprojAssemblyReference.cache
+C:\Users\Dorin\Desktop\Lectia9\Radiobutton\obj\Debug\Radiobutton.Form1.resources
+C:\Users\Dorin\Desktop\Lectia9\Radiobutton\obj\Debug\Radiobutton.Properties.Resources.resources
+C:\Users\Dorin\Desktop\Lectia9\Radiobutton\obj\Debug\Radiobutton.csproj.GenerateResource.cache
+C:\Users\Dorin\Desktop\Lectia9\Radiobutton\obj\Debug\Radiobutton.csproj.CoreCompileInputs.cache
+C:\Users\Dorin\Desktop\Lectia9\Radiobutton\obj\Debug\Radiobutton.exe
+C:\Users\Dorin\Desktop\Lectia9\Radiobutton\obj\Debug\Radiobutton.pdb
