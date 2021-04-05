@@ -1,0 +1,10 @@
+C:\Users\Dorin\Desktop\Lectia 12\Sarcina2\bin\Debug\Sarcina2.exe.config
+C:\Users\Dorin\Desktop\Lectia 12\Sarcina2\bin\Debug\Sarcina2.exe
+C:\Users\Dorin\Desktop\Lectia 12\Sarcina2\bin\Debug\Sarcina2.pdb
+C:\Users\Dorin\Desktop\Lectia 12\Sarcina2\obj\Debug\Sarcina2.csprojAssemblyReference.cache
+C:\Users\Dorin\Desktop\Lectia 12\Sarcina2\obj\Debug\Sarcina2.Form1.resources
+C:\Users\Dorin\Desktop\Lectia 12\Sarcina2\obj\Debug\Sarcina2.Properties.Resources.resources
+C:\Users\Dorin\Desktop\Lectia 12\Sarcina2\obj\Debug\Sarcina2.csproj.GenerateResource.cache
+C:\Users\Dorin\Desktop\Lectia 12\Sarcina2\obj\Debug\Sarcina2.csproj.CoreCompileInputs.cache
+C:\Users\Dorin\Desktop\Lectia 12\Sarcina2\obj\Debug\Sarcina2.exe
+C:\Users\Dorin\Desktop\Lectia 12\Sarcina2\obj\Debug\Sarcina2.pdb
