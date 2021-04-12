@@ -1,0 +1,9 @@
+C:\Users\Dorin\Desktop\e\Exemplul4\bin\Debug\Exemplul4.exe.config
+C:\Users\Dorin\Desktop\e\Exemplul4\bin\Debug\Exemplul4.exe
+C:\Users\Dorin\Desktop\e\Exemplul4\bin\Debug\Exemplul4.pdb
+C:\Users\Dorin\Desktop\e\Exemplul4\obj\Debug\Exemplul4.Form1.resources
+C:\Users\Dorin\Desktop\e\Exemplul4\obj\Debug\Exemplul4.Properties.Resources.resources
+C:\Users\Dorin\Desktop\e\Exemplul4\obj\Debug\Exemplul4.csproj.GenerateResource.cache
+C:\Users\Dorin\Desktop\e\Exemplul4\obj\Debug\Exemplul4.csproj.CoreCompileInputs.cache
+C:\Users\Dorin\Desktop\e\Exemplul4\obj\Debug\Exemplul4.exe
+C:\Users\Dorin\Desktop\e\Exemplul4\obj\Debug\Exemplul4.pdb
